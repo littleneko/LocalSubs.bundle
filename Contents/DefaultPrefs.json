@@ -1,0 +1,26 @@
+[
+	{
+		"id": "subs_folder_path",
+		"label": "Subs folder path",
+		"type": "text",
+		"default": "Subs"
+	},
+	{
+		"id": "default_subs_lang",
+		"label": "Default Subs Language if No Language_Code",
+		"type": "text",
+		"default": "zh"
+	},
+	{
+		"id": "subs_lang_to_default",
+		"label": "Language Code Map to Default Subs Language (support re)",
+		"type": "text",
+		"default": "sc, chs, gb, tc, cht, big5"
+	},
+	{
+		"id": "unknown_lang_code",
+		"label": "Language Code Unknown Map to it",
+		"type": "text",
+		"default": "zh"
+	}
+]
